@@ -1,0 +1,14 @@
+c:\Users\Hiper\Documents\КУРС 5\C#\example\bin\Debug\net10.0\CollectionsOopExample.exe
+C:\Users\Hiper\Documents\КУРС 5\C#\example\bin\Debug\net10.0\CollectionsOopExample.deps.json
+C:\Users\Hiper\Documents\КУРС 5\C#\example\bin\Debug\net10.0\CollectionsOopExample.runtimeconfig.json
+c:\Users\Hiper\Documents\КУРС 5\C#\example\bin\Debug\net10.0\CollectionsOopExample.dll
+c:\Users\Hiper\Documents\КУРС 5\C#\example\bin\Debug\net10.0\CollectionsOopExample.pdb
+c:\Users\Hiper\Documents\КУРС 5\C#\example\obj\Debug\net10.0\CollectionsOopExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Hiper\Documents\КУРС 5\C#\example\obj\Debug\net10.0\CollectionsOopExample.AssemblyInfoInputs.cache
+c:\Users\Hiper\Documents\КУРС 5\C#\example\obj\Debug\net10.0\CollectionsOopExample.AssemblyInfo.cs
+c:\Users\Hiper\Documents\КУРС 5\C#\example\obj\Debug\net10.0\CollectionsOopExample.csproj.CoreCompileInputs.cache
+c:\Users\Hiper\Documents\КУРС 5\C#\example\obj\Debug\net10.0\CollectionsOopExample.dll
+c:\Users\Hiper\Documents\КУРС 5\C#\example\obj\Debug\net10.0\refint\CollectionsOopExample.dll
+c:\Users\Hiper\Documents\КУРС 5\C#\example\obj\Debug\net10.0\CollectionsOopExample.pdb
+C:\Users\Hiper\Documents\КУРС 5\C#\example\obj\Debug\net10.0\CollectionsOopExample.genruntimeconfig.cache
+C:\Users\Hiper\Documents\КУРС 5\C#\example\obj\Debug\net10.0\ref\CollectionsOopExample.dll
