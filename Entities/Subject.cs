@@ -1,7 +1,3 @@
-// ==================== Entities/Subject.cs ====================
-// Учебный предмет: идентификатор и название. Справочник.
-// oop/01_Classes_And_Objects.
-
 namespace UniversityApp.Entities;
 
 public class Subject

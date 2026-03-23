@@ -1,6 +1,3 @@
-// ==================== Repositories/SubjectRepository.cs ====================
-// «База» предметов — Dictionary (collection/03_Dictionary).
-
 namespace UniversityApp.Repositories;
 
 using UniversityApp.Entities;

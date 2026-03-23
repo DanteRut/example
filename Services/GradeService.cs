@@ -1,6 +1,4 @@
-// ==================== Services/GradeService.cs ====================
-// Сервис оценок и предметов. Зависит от IGradeRepository, IStudentRepository,
-// ISubjectRepository (D-SOLID). LINQ: Where, GroupBy, Average, OrderByDescending, Take.
+// Сервис оценок и предметов
 
 namespace UniversityApp.Services;
 

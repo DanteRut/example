@@ -1,4 +1,3 @@
-// ==================== Repositories/ISubjectRepository.cs ====================
 namespace UniversityApp.Repositories;
 
 using UniversityApp.Entities;

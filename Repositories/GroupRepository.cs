@@ -1,6 +1,3 @@
-// ==================== Repositories/GroupRepository.cs ====================
-// «База» групп — Dictionary для быстрого поиска по id (collection/03_Dictionary).
-
 namespace UniversityApp.Repositories;
 
 using UniversityApp.Entities;

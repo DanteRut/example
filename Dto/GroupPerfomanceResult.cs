@@ -1,4 +1,3 @@
-// ==================== Dto/GroupPerformanceResult.cs ====================
 namespace UniversityApp.Dto;
 
 public class GroupPerformanceResult

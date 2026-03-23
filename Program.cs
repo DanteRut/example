@@ -1,7 +1,4 @@
-// ==================== Program.cs ====================
-// Точка входа. Сборка: конкретные репозитории → сервисы (через интерфейсы) → меню.
-// D-SOLID: oop/11_SOLID_Dependency_Inversion — создание на «краю» приложения.
-
+// Точка входа. Сборка: конкретные репозитории → сервисы (через интерфейсы) → меню
 using UniversityApp.Console;
 using UniversityApp.Entities;
 using UniversityApp.Repositories;
@@ -28,17 +25,16 @@ menu.Run();
 static void SeedData(IStudentService studentService, IGradeService gradeService)
 {
     // --- Группы ---
-    studentService.AddGroup("cs1",   "Информатика 1 курс", 1);
-    studentService.AddGroup("cs2",   "Информатика 2 курс", 2);
-    studentService.AddGroup("math1", "Математика 1 курс",  1);
+    studentService.AddGroup("УВП-312",   "ИВТ 3 курс", 1);
+    studentService.AddGroup("УВП-311",   "ИВТ 3 курс", 2);
 
     // --- Студенты ---
-    studentService.AddStudent(1, "Иванов Иван",      "ivan@univ.ru",   "cs1");
-    studentService.AddStudent(2, "Петрова Мария",     "maria@univ.ru",  "cs1");
-    studentService.AddStudent(3, "Сидоров Алексей",   "alex@univ.ru",   "cs2");
-    studentService.AddStudent(4, "Козлова Анна",      "anna@univ.ru",   "cs2");
-    studentService.AddStudent(5, "Новиков Дмитрий",   "dmitry@univ.ru", "math1");
-    studentService.AddStudent(6, "Морозова Елена",    "elena@univ.ru",  "math1");
+    studentService.AddStudent(1, "Иванов Иван",      "ivan@univ.ru",   "УВП-312");
+    studentService.AddStudent(2, "Петрова Мария",     "maria@univ.ru",  "УВП-312");
+    studentService.AddStudent(3, "Сидоров Алексей",   "alex@univ.ru",   "УВП-311");
+    studentService.AddStudent(4, "Козлова Анна",      "anna@univ.ru",   "УВП-311");
+    studentService.AddStudent(5, "Новиков Дмитрий",   "dmitry@univ.ru", "УВП-312");
+    studentService.AddStudent(6, "Морозова Елена",    "elena@univ.ru",  "УВП-312");
 
     // --- Предметы ---
     gradeService.AddSubject("prog", "Программирование");

@@ -1,6 +1,4 @@
-// ==================== Services/ReportService.cs ====================
-// Сервис отчётов — аналитика по всем данным. Зависит от четырёх интерфейсов
-// репозиториев (D-SOLID). LINQ: GroupBy, Count, Average, Where, OrderByDescending.
+// Сервис отчётов — аналитика по всем данным
 
 namespace UniversityApp.Services;
 

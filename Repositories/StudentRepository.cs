@@ -1,6 +1,3 @@
-// ==================== Repositories/StudentRepository.cs ====================
-// «База данных» студентов — List<Student> в памяти (collection/02_List).
-
 namespace UniversityApp.Repositories;
 
 using UniversityApp.Entities;

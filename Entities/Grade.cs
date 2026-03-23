@@ -1,7 +1,3 @@
-// ==================== Entities/Grade.cs ====================
-// Оценка: привязана к студенту и предмету, значение 1–5, дата, тип.
-// Инкапсуляция: значение оценки проверяется в set (oop/02_Encapsulation).
-
 namespace UniversityApp.Entities;
 
 public class Grade

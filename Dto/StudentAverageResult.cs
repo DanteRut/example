@@ -1,4 +1,3 @@
-// ==================== Dto/StudentAverageResult.cs ====================
 namespace UniversityApp.Dto;
 
 public class StudentAverageResult

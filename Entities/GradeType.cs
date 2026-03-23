@@ -1,7 +1,3 @@
-// ==================== Entities/GradeType.cs ====================
-// Перечисление типов оценок — именованные константы вместо «магических» чисел.
-// oop/12_Composition_And_More — раздел Enum.
-
 namespace UniversityApp.Entities;
 
 public enum GradeType

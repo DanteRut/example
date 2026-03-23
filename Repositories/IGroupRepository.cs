@@ -1,4 +1,3 @@
-// ==================== Repositories/IGroupRepository.cs ====================
 namespace UniversityApp.Repositories;
 
 using UniversityApp.Entities;

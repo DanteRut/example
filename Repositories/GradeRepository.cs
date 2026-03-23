@@ -1,6 +1,3 @@
-// ==================== Repositories/GradeRepository.cs ====================
-// «База» оценок — List<Grade> (collection/02_List).
-
 namespace UniversityApp.Repositories;
 
 using UniversityApp.Entities;

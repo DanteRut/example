@@ -1,6 +1,3 @@
-// ==================== Services/IStudentService.cs ====================
-// Абстракция сервиса студентов. Консоль зависит от интерфейса (D-SOLID).
-
 namespace UniversityApp.Services;
 
 using UniversityApp.Dto;

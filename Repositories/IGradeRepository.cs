@@ -1,4 +1,3 @@
-// ==================== Repositories/IGradeRepository.cs ====================
 namespace UniversityApp.Repositories;
 
 using UniversityApp.Entities;

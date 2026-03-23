@@ -1,4 +1,3 @@
-// ==================== Services/IReportService.cs ====================
 namespace UniversityApp.Services;
 
 using UniversityApp.Dto;

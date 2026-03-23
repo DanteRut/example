@@ -1,7 +1,3 @@
-// ==================== Console/AppMenu.cs ====================
-// Консольный слой: бесконечное меню. Зависит только от интерфейсов сервисов (D-SOLID).
-// Не создаёт сервисы и репозитории — получает их извне (oop/11_SOLID_Dependency_Inversion).
-
 namespace UniversityApp.Console;
 
 using UniversityApp.Services;

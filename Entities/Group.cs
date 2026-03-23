@@ -1,7 +1,3 @@
-// ==================== Entities/Group.cs ====================
-// Учебная группа: идентификатор, название, номер курса.
-// oop/01_Classes_And_Objects — простой класс-сущность.
-
 namespace UniversityApp.Entities;
 
 public class Group

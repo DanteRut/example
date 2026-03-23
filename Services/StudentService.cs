@@ -1,6 +1,4 @@
-// ==================== Services/StudentService.cs ====================
-// Сервис студентов и групп. Зависит от IStudentRepository, IGroupRepository (D-SOLID).
-// LINQ: Where (collection/06), GroupBy + Count (collection/08).
+// Сервис студентов и групп
 
 namespace UniversityApp.Services;
 

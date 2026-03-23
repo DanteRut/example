@@ -1,4 +1,3 @@
-// ==================== Services/IGradeService.cs ====================
 namespace UniversityApp.Services;
 
 using UniversityApp.Dto;

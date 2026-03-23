@@ -1,4 +1,3 @@
-// ==================== Dto/SubjectStatResult.cs ====================
 namespace UniversityApp.Dto;
 
 public class SubjectStatResult

@@ -1,4 +1,3 @@
-// ==================== Dto/StudentCountResult.cs ====================
 namespace UniversityApp.Dto;
 
 public class StudentCountResult

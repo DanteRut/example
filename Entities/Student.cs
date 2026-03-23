@@ -1,7 +1,3 @@
-// ==================== Entities/Student.cs ====================
-// Сущность «Студент». Инкапсуляция: email проверяется в свойстве (oop/02_Encapsulation).
-// Приватное поле _email, доступ только через свойство с валидацией.
-
 namespace UniversityApp.Entities;
 
 public class Student
